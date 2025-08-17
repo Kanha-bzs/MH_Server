@@ -1,11 +1,1 @@
-[
-  {
-    "plugin_name": "DropBoxAPI",
-    "version": "1.0",
-    "plugin_short_info": "Using Dropbox api you can post json data directly from this plugin",
-    "plugin_long_info": "Using Dropbox api you can post json data directly from this plugin",
-    "plugin_id": "mt.dropbox.api",
-    "download_link": "https://github.com/Kanha-bzs/MH_Server/releases/download/Plgins/DropBoxAPI.mtp",
-    "icon_link": "https://cdn-icons-png.flaticon.com/512/4138/4138137.png"
-  }
-]
+[{"plugin_name":"DropBoxAPI","version":"1.0","plugin_short_info":"Using Dropbox api you can post json data directly from this plugin","plugin_long_info":"Using Dropbox api you can post json data directly from this plugin","plugin_id":"mt.dropbox.api","download_link":"https://github.com/Kanha-bzs/MH_Server/releases/download/Plgins/DropBoxAPI.mtp","icon_link":"https://cdn-icons-png.flaticon.com/512/4138/4138137.png"},{"plugin_name":"PastefyAPI","version":"1.0","plugin_short_info":"Using the pastefy web interface...","plugin_long_info":"Using Pastefy api you can post json data directly from this plugin","plugin_id":"mt.pastefy.api","download_link":"https://github.com/Kanha-bzs/MH_Server/releases/download/Plgins/PastefyAPI.mtp","icon_link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSStDByW2wK0e9B--Vagn4WIyVFtFX7MEfwJA&s"}]
