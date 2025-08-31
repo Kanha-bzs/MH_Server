@@ -1,10 +1,10 @@
 {
-    "Header_Rate": "$5.50 or €5 or ₹230.00",
+    "Header_Rate": "$5.50 or €6 or ₹250.00",
     "Header_Rate_Re": "$1.50 or €2 or ₹70.00",
     "Price_In_USD": "5.50",
     "Price_In_USD_Re": "1.50",
     "PayPal_Link": "https://www.paypal.com/ncp/payment/BG77PEFMPN3L2",
-    "Paypal_Link_Re": "https://www.paypal.com/ncp/payment/BG77PEFMPN3L2",
+    "PayPal_Link_Re": "https://www.paypal.com/ncp/payment/ENCAXPUXY42BC",
     "Price_In_Rupee": "250",
     "Price_In_Rupee_Re": "70",
     "UPI_ID": "dayanidhi-m@ybl",
