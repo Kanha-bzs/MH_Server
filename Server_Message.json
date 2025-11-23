@@ -1,10 +1,10 @@
 {
-    "Shared_Pref": "MT2",
+    "Shared_Pref": "MT3",
     "Title": "Message from developer",
-    "Message": "Hello Folks",
+    "Message": "I have open sourced a MT Manager like Text Editor..\nWatch a sample video on My telegram channel \n\n And PLEASE don't forget give  ⭐️ on github..\n\n~Developer \nTHANK YOU 🥰",
     "Ok_Btn_Text": "Ok",
     "isCancelable" : false,
-    "Neutral_Btn_Text" : "Join Telegram",
-    "Neutral_Btn_Link" : "https://t.me/Modder_Hub",
-    "WebLink": "https://modder-hub.blogspot.com"
+    "Neutral_Btn_Text" : "Sample Video",
+    "Neutral_Btn_Link" : "https://t.me/Modder_Hub/1516",
+    "WebLink": "https://github.com/developer-krushna/MH-TextEditor"
 }
