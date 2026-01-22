@@ -1,10 +1,10 @@
 {
-    "Header_Rate": "$5.50 or €5 or ₹230.00",
+    "Header_Rate": "$5.50 or €5 or ₹270.00",
     "Header_Rate_Re": "$1.50 or €2 or ₹70.00",
     "Price_In_USD": "5.50",
     "Price_In_USD_Re": "1.50",
-    "PayPal_Link": "https://paypal.me/MaharnaTech/5.50",
-    "PayPal_Link_Re": "https://paypal.me/MaharnaTech/1.50",
+    "PayPal_Link": "https://www.paypal.com/ncp/payment/MDUKRV782NMDS",
+    "PayPal_Link_Re": "https://www.paypal.com/ncp/payment/R22GUTEZ7FMSW",
     "Price_In_Rupee": "270",
     "Price_In_Rupee_Re": "70",
     "UPI_ID": "krushnachandramaharna@postbank",
